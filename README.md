@@ -2,8 +2,8 @@
 
 ## Зависимости, которые нужно установить до запуска:
 
-peewee: pip install peewee
+**peewee**: pip install peewee
 
 ## Запускать командой:
 
-python main.py
+python main.py  
