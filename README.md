@@ -1,2 +1,9 @@
-# lib
-lib for mori
+# Библиотека 
+
+## Зависимости, которые нужно установить до запуска:
+
+peewee: pip install peewee
+
+## Запускать командой:
+
+python main.py
